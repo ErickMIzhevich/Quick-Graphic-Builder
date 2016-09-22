@@ -1,4 +1,4 @@
-# Speed-Graphic-Builder
+# Quick-Graphic-Builder
 
 ### Intodution
 
