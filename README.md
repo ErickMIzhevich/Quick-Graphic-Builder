@@ -8,14 +8,14 @@ function and he got result in a tick.
 ### User Requirements
 
 ##### - Software Interfaces:
-  - Will base on Android SDK
-  - Application will use GraphView library
+  - Will base on [Android SDK] - the fastest tools kit for building apps on every type of Android device
+  - Application will use [GraphView library] - library for Android to programmatically create flexible and nice-looking diagramms
 
 ##### - User Interface:
 After entering function in the appropriate field the graphics moduling stars. After that graph is displayed
 on the coordinate plane. User is able to zoom in/out the graph, see further subsequent behavior of the function 
 graph along one of the axes.
-As mockups attached some screens of analog application called "Grapher Free", which interface similar to the application 
+As mockups attached some screens of analog application called [Grapher Free], which interface similar to the application 
 being developed.
   - Example of three functions's graphics, inputed by the user into the appropriate fields
   
@@ -49,3 +49,7 @@ Application does not requires nothing to work properly.
   - Adding tips on the interface elements (to help novice users to navigate in the application)
   - Comfortable interface (full set of the interface elements to comfortable working with the application)
   - Safe operation of the application (correct graphic showing)
+
+  [Android SDK]: <https://developer.android.com/studio/index.html>
+  [GraphView library]: <https://github.com/jjoe64/GraphView>
+  [Grapher Free]: <https://play.google.com/store/apps/details?id=com.opticron.grapher>
